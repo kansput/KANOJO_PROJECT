@@ -82,7 +82,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<h1>Welcome to RE-ntal Pacar!</h1>
 
 	<div id="body">
-		<p>Website ini di tujukan buat kalian yang jomblo akut ga punya pacar ngenes tiap hari </p>
+
+       <p>Website ini di tujukan buat kalian yang jomblo akut ga punya pacar ngenes tiap hari </p>
 
 	</div>
 
